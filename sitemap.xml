@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://lalyos.github.io/site/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://lalyos.github.io/site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://lalyos.github.io/site/contact/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://lalyos.github.io/site/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/services/</loc>
+    <loc>https://lalyos.github.io/site/services/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://lalyos.github.io/site/tags/</loc>
     <priority>0</priority>
   </url>
   
